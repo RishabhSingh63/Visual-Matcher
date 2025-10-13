@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "category": "Hat",
+    "image": "products/product_01.jpg",
+    "avg_color": [
+      19,
+      254,
+      19
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "category": "Shoes",
+    "image": "products/product_02.jpg",
+    "avg_color": [
+      19,
+      19,
+      254
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "category": "Shoes",
+    "image": "products/product_03.jpg",
+    "avg_color": [
+      254,
+      254,
+      19
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "category": "Hat",
+    "image": "products/product_04.jpg",
+    "avg_color": [
+      254,
+      19,
+      254
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "category": "Bag",
+    "image": "products/product_05.jpg",
+    "avg_color": [
+      19,
+      254,
+      254
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "category": "Shirt",
+    "image": "products/product_06.jpg",
+    "avg_color": [
+      137,
+      19,
+      19
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "category": "Shirt",
+    "image": "products/product_07.jpg",
+    "avg_color": [
+      19,
+      137,
+      19
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "category": "Shirt",
+    "image": "products/product_08.jpg",
+    "avg_color": [
+      19,
+      19,
+      137
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "category": "Hat",
+    "image": "products/product_09.jpg",
+    "avg_color": [
+      137,
+      137,
+      19
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "category": "Shoes",
+    "image": "products/product_10.jpg",
+    "avg_color": [
+      137,
+      19,
+      137
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "category": "Hat",
+    "image": "products/product_11.jpg",
+    "avg_color": [
+      19,
+      137,
+      137
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "category": "Hat",
+    "image": "products/product_12.jpg",
+    "avg_color": [
+      203,
+      111,
+      65
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "category": "Sunglasses",
+    "image": "products/product_13.jpg",
+    "avg_color": [
+      65,
+      203,
+      111
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "category": "Shoes",
+    "image": "products/product_14.jpg",
+    "avg_color": [
+      111,
+      65,
+      203
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "category": "Sunglasses",
+    "image": "products/product_15.jpg",
+    "avg_color": [
+      254,
+      19,
+      19
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "category": "Watch",
+    "image": "products/product_16.jpg",
+    "avg_color": [
+      19,
+      254,
+      19
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "category": "Shoes",
+    "image": "products/product_17.jpg",
+    "avg_color": [
+      19,
+      19,
+      254
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "category": "Shoes",
+    "image": "products/product_18.jpg",
+    "avg_color": [
+      254,
+      254,
+      19
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "category": "Shoes",
+    "image": "products/product_19.jpg",
+    "avg_color": [
+      254,
+      19,
+      254
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "category": "Shirt",
+    "image": "products/product_20.jpg",
+    "avg_color": [
+      19,
+      254,
+      254
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "category": "Shirt",
+    "image": "products/product_21.jpg",
+    "avg_color": [
+      137,
+      19,
+      19
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Product 22",
+    "category": "Sunglasses",
+    "image": "products/product_22.jpg",
+    "avg_color": [
+      19,
+      137,
+      19
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Product 23",
+    "category": "Sunglasses",
+    "image": "products/product_23.jpg",
+    "avg_color": [
+      19,
+      19,
+      137
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Product 24",
+    "category": "Shoes",
+    "image": "products/product_24.jpg",
+    "avg_color": [
+      137,
+      137,
+      19
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Product 25",
+    "category": "Sunglasses",
+    "image": "products/product_25.jpg",
+    "avg_color": [
+      137,
+      19,
+      137
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Product 26",
+    "category": "Shirt",
+    "image": "products/product_26.jpg",
+    "avg_color": [
+      19,
+      137,
+      137
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Product 27",
+    "category": "Hat",
+    "image": "products/product_27.jpg",
+    "avg_color": [
+      203,
+      111,
+      65
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Product 28",
+    "category": "Hat",
+    "image": "products/product_28.jpg",
+    "avg_color": [
+      65,
+      203,
+      111
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Product 29",
+    "category": "Hat",
+    "image": "products/product_29.jpg",
+    "avg_color": [
+      111,
+      65,
+      203
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Product 30",
+    "category": "Sunglasses",
+    "image": "products/product_30.jpg",
+    "avg_color": [
+      254,
+      19,
+      19
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Product 31",
+    "category": "Watch",
+    "image": "products/product_31.jpg",
+    "avg_color": [
+      19,
+      254,
+      19
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Product 32",
+    "category": "Shirt",
+    "image": "products/product_32.jpg",
+    "avg_color": [
+      19,
+      19,
+      254
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Product 33",
+    "category": "Watch",
+    "image": "products/product_33.jpg",
+    "avg_color": [
+      254,
+      254,
+      19
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Product 34",
+    "category": "Sunglasses",
+    "image": "products/product_34.jpg",
+    "avg_color": [
+      254,
+      19,
+      254
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Product 35",
+    "category": "Bag",
+    "image": "products/product_35.jpg",
+    "avg_color": [
+      19,
+      254,
+      254
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Product 36",
+    "category": "Shoes",
+    "image": "products/product_36.jpg",
+    "avg_color": [
+      137,
+      19,
+      19
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Product 37",
+    "category": "Shirt",
+    "image": "products/product_37.jpg",
+    "avg_color": [
+      19,
+      137,
+      19
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Product 38",
+    "category": "Hat",
+    "image": "products/product_38.jpg",
+    "avg_color": [
+      19,
+      19,
+      137
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Product 39",
+    "category": "Watch",
+    "image": "products/product_39.jpg",
+    "avg_color": [
+      137,
+      137,
+      19
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Product 40",
+    "category": "Bag",
+    "image": "products/product_40.jpg",
+    "avg_color": [
+      137,
+      19,
+      137
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Product 41",
+    "category": "Bag",
+    "image": "products/product_41.jpg",
+    "avg_color": [
+      19,
+      137,
+      137
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Product 42",
+    "category": "Shirt",
+    "image": "products/product_42.jpg",
+    "avg_color": [
+      203,
+      111,
+      65
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Product 43",
+    "category": "Shirt",
+    "image": "products/product_43.jpg",
+    "avg_color": [
+      65,
+      203,
+      111
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Product 44",
+    "category": "Bag",
+    "image": "products/product_44.jpg",
+    "avg_color": [
+      111,
+      65,
+      203
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Product 45",
+    "category": "Shoes",
+    "image": "products/product_45.jpg",
+    "avg_color": [
+      254,
+      19,
+      19
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Product 46",
+    "category": "Shoes",
+    "image": "products/product_46.jpg",
+    "avg_color": [
+      19,
+      254,
+      19
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Product 47",
+    "category": "Watch",
+    "image": "products/product_47.jpg",
+    "avg_color": [
+      19,
+      19,
+      254
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Product 48",
+    "category": "Shoes",
+    "image": "products/product_48.jpg",
+    "avg_color": [
+      254,
+      254,
+      19
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Product 49",
+    "category": "Bag",
+    "image": "products/product_49.jpg",
+    "avg_color": [
+      254,
+      19,
+      254
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Product 50",
+    "category": "Bag",
+    "image": "products/product_50.jpg",
+    "avg_color": [
+      19,
+      254,
+      254
+    ]
+  }
+]
